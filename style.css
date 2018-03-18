@@ -1,0 +1,20 @@
+#app {
+    height: 102.4px;
+    width: 85px;
+    background-image: url(man_running_sprite.png);
+    background-repeat: no-repeat;
+    background-position: -165px -206px;
+    position: absolute;
+    left: 0;
+}
+
+#ta {
+    display: block;
+    resize: none;
+    height: 400px;
+    width: 100px;
+    padding: .51rem;
+    line-height: 2rem;
+    font-size: 140%;
+    animation: rotate .5s infinite;
+}
